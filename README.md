@@ -1,2 +1,2 @@
 # tensorflow
-TensorFlow studies
+TensorFlow studies... long way to go
